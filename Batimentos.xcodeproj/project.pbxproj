@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 597F2F2R8L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Batimentos/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "\" Precisamos usar o Bluetooth\"";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = 597F2F2R8L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Batimentos/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "\" Precisamos usar o Bluetooth\"";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
